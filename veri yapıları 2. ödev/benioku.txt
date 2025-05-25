@@ -1,0 +1,3 @@
+agaclar.txt hem ödev klasöründe hem de program.exe nin dosyayı görebilmesi için bin klasöründe bulunmaktadır 
+kulanılacak agaclar.txt nerede çalıştırılacaksa ona göre konumlandırılmalıdır.
+Ödev dosyasındaki agaclar.txt yi ödevin içerisine örnek olarak koydum 
