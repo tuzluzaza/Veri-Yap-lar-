@@ -1,0 +1,1 @@
+program terminalde çalışmaktadır Dna.txt ve Islemler.txt dosyalarını makefile ın olduğu klasörede olmalıdır.
